@@ -38,3 +38,7 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### Terraform ###
+./cloud/.terraform
+./cloud/.terraform.lock.hcl
